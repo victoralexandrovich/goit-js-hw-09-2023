@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GoIT JS Homework 8 - Project Infrastructure and Web Storage (JS)
 JavaScript homework assignment for the GoIT course (Module 8). Topic: project infrastructure with Node.js, npm and Webpack (via parcel-project-template), JSON, and browser Web Storage.
 **What was done:**
@@ -30,6 +29,3 @@ JavaScript homework assignment for the GoIT course (Module 8). Topic: project in
 - Обмежено оновлення сховища форми до одного разу на 500 мс за допомогою `lodash.throttle`
 - Код відформатовано за допомогою Prettier
 - Зміни зафіксовані в репозиторії GitHub згідно з правилами використання Git, робоча сторінка розгорнута через GitHub Pages
-=======
-# goit-js-hw-09-2023
->>>>>>> 93c6ddfb55d7a6359ab60040a906c515b188e629
